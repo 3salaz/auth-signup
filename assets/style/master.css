@@ -1,0 +1,31 @@
+.submition{
+    width: 700px;
+    margin-top: 150px;
+};
+.hide{
+    opacity: 0%;
+}
+.toast-success-container{
+    background-color: rgb(0, 128, 0, 0.5);
+    border-radius: 100px;
+}
+.toast-failed-container{
+    background-color: rgba(128, 0, 0, 0.75);
+    border-radius: 100px; 
+    margin-top: 0px;
+    width: 300px;
+}
+.toast-message{
+    text-align: center;
+}
+.results-p{
+    color: red;
+}
+/* Navbar */
+nav{
+background-color: grey;
+}
+/* Validator */
+.form-validator {
+    margin-top: 200px;
+}
